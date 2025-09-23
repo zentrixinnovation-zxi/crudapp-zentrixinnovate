@@ -1,5 +1,4 @@
 // src/components/UserTable.tsx
-import React from "react";
 import { Pencil, Trash2 } from "lucide-react";
 
 const UserTable = ({ users, onEdit, onDelete }: any) => {
